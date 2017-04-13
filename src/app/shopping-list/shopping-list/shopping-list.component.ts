@@ -7,6 +7,7 @@ import { Ingredient } from './ingredient.model';
   templateUrl: './shopping-list.component.html',
   styleUrls: ['./shopping-list.component.css']
 })
+
 export class ShoppingListComponent implements OnInit {
   ingredients: Ingredient[] = [
     new Ingredient('Potatoes', 5),

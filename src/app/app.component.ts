@@ -7,5 +7,6 @@ import { RecipesComponent } from './recipes/recipes.component';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
+
 export class AppComponent {
 }

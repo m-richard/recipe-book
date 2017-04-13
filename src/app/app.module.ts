@@ -33,4 +33,5 @@ import { ShoppingListEditComponent } from './shopping-list/shopping-list-edit/sh
   providers: [],
   bootstrap: [AppComponent]
 })
+
 export class AppModule { }
